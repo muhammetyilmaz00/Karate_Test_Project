@@ -1,0 +1,17 @@
+{
+  "category": {
+    "id": 0,
+    "name": "new Pet category created from pet.json file"
+  },
+  "name": "doggie",
+  "photoUrls": [
+    "string"
+  ],
+  "tags": [
+    {
+      "id": 0,
+      "name": "string"
+    }
+  ],
+  "status": "available"
+}
